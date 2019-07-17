@@ -1,0 +1,5 @@
+.DS_Store
+/postgres-custom/*
+/volumes/puppet*
+/volumes/serverdata
+/volumes/serverdata/*
