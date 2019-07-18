@@ -1,2 +1,2 @@
 # Puppet Running in a Docker Container
-Puppet running in a Docker container for experimentation and educational purposes.
+Composing a puppet stack based on https://medium.com/swlh/install-puppet-server-on-docker-fe4a80cbe3be
